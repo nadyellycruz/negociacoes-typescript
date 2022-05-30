@@ -7,3 +7,9 @@ Objetivos do curso:
 - Compreender as vantagens da tipagem estática;
 - Modelar as classes utilizando o que há de melhor na linguagem;
 - Aprender a utilizar tipos, modificadores, Generics entre outros.
+
+"TypeScript parte 2: avançando na linguagem"
+- Aprender a utilizar modificadores de acesso, herança e tipos genéricos;
+- Entender o papel das Enumerations;
+- Criar um mini framework de atualização de view inspirado no JSX;
+- Configurar ainda mais o compilador TS e tirar máximo proveito do código.
